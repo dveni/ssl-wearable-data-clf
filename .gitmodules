@@ -1,0 +1,3 @@
+[submodule "SelfHAR/SelfHAR"]
+	path = SelfHAR/SelfHAR
+	url = https://github.com/dveni/SelfHAR.git
